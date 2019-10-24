@@ -1,0 +1,14 @@
+====================================Hotel XXXXXX============================================
+Thank you for statying in our hotel, here is your invoice
+Client Full Nmaeayoub jannani
+Address :casa
+IDcard : hhh
+Room number : 11
+Date Checked in : 12/11/1111
+Date Checked out : 18/11/1111
+room amount : 420.0
+Meals Costs : 
+                         Breakfast :144.0
+                         Lunch :420.0
+                         Dinner :60.0Total Amount To Pay : 1044.0
+We Hope To See You Very Soon

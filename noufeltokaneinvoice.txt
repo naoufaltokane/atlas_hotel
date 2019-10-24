@@ -1,0 +1,15 @@
+====================================Hotel XXXXXX============================================
+Thank you for statying in our hotel, here is your invoice
+Client Full Nmaenoufel tokane
+Address :ggg
+IDcard : ggg
+Room number : 343
+Date Checked in : 10/10/1011
+Date Checked out : 12/10/1011
+room amount : 160.0
+Meals Costs : 
+                     Breakfast :20.0
+                     Lunch :80.0
+                     Dinner :24.0
+Total Amount To Pay : 284.0
+We Hope To See You Very Soon

@@ -1,0 +1,15 @@
+====================================Hotel XXXXXX============================================
+Thank you for statying in our hotel, here is your invoice
+Client Full NmaeYassin Laassam
+Address :Agadir, Morocco
+IDcard : JJ432
+Room number : 12
+Date Checked in : 28/11/2018
+Date Checked out : 30/11/2018
+room amount : 40.0
+Meals Costs : 
+                     Breakfast :20.0
+                     Lunch :80.0
+                     Dinner :24.0
+Total Amount To Pay : 164.0
+We Hope To See You Very Soon
